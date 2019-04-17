@@ -12,9 +12,11 @@ A little description of the files
 You will notice that some of the data files are missing (frow the raw and output data directories). This is because they were too big for github. Here is a list of those not included in the repo
 
 From \raw
-- delta_public_release_00_15.dta: IPEDS data from 2000-2015
-- delta_public_release_87_00.dta: IPEDS data from 1987-2000
-- acs_individual.csv: ACS data from 1990, 2000-2013
+| filename                       | description                   | size    |
+|--------------------------------|-------------------------------|---------|
+| delta_public_release_00_15.dta | IPEDS data from 2000-2015     | 223 MB  |
+| delta_public_release_87_00.dta | IPEDS data from 1987-2000     | 210 MB  |
+| acs_individual.csv             | ACS data from 1990, 2000-2013 | 1.47 GB |
 
 From \output data
 - final.dta: acs data state aggregated by cohort, year, and college_year (see paper)
