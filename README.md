@@ -20,5 +20,8 @@ From \raw
 | acs_individual.csv             | ACS data from 1990, 2000-2013 | 1.47 GB |
 
 From \output data
-- final.dta: acs data state aggregated by cohort, year, and college_year (see paper)
-- institution_df.dta: cleaned up IPEDS data at insitution level
+
+| filename                       | description                   | size    |
+|--------------------------------|-------------------------------|---------|
+| final.dta | acs data state aggregated by cohort, year, and college_year (see paper)     | 43 MB  |
+| institution_df.dta | cleaned up IPEDS data at insitution level     | 77 MB  |
