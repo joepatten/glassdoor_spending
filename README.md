@@ -12,6 +12,7 @@ A little description of the files
 You will notice that some of the data files are missing (frow the raw and output data directories). This is because they were too big for github. Here is a list of those not included in the repo
 
 From \raw
+
 | filename                       | description                   | size    |
 |--------------------------------|-------------------------------|---------|
 | delta_public_release_00_15.dta | IPEDS data from 2000-2015     | 223 MB  |
